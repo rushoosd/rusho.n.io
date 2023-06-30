@@ -2,7 +2,7 @@
 <html>
   <head>
     <style>
-      body {
+     . body {
         background-color:red;
         color:white;
         }
