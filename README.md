@@ -1,1 +1,2 @@
-# rusho.n.io
+# made by Rusho
+hii my name id rusho
